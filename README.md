@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maveronic
-- 👀 I’m interested in learning ethical hacking and network security systems
+- 👀 I’m interested in Data Science, backend development and a hobbyist in Cybersecurity and ethical hacking
 - 🌱 I’m currently learning c++ and python
 - 📫 How to reach me through my mail -mmesomamgbemena@yahoo.com
 
