@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maveronic
 - 👀 I’m interested in Data Science, backend development and Cybersecurity and ethical hacking
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning Go
 - 📫 How to reach me through my mail -mmesomamgbemena@yahoo.com
 
 <!---
