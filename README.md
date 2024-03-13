@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maveronic
-- 👀 I’m interested in Data Science, backend development and Cybersecurity and ethical hacking
+- 👀 I’m interested in Data Science, backend development, Cybersecurity and ethical hacking
 - 🌱 I’m currently learning Go
 - 📫 How to reach me through my mail -mmesomamgbemena@yahoo.com
 
